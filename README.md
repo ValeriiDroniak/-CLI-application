@@ -10,7 +10,7 @@ node index.js --action="list"
 
 node index.js --action="get" --id=5
 
-(https://github.com/ValeriiDroniak/CLI-application/blob/main/images/get.jpg)
+![Get contact](./images/get.jpg)
 
 ## Додаємо контакт
 
