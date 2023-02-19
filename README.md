@@ -4,7 +4,7 @@
 
 node index.js --action="list"
 
-(https://github.com/ValeriiDroniak/CLI-application/blob/main/images/list.jpg)
+![Contacts list](https://github.com/ValeriiDroniak/CLI-application/blob/main/images/list.jpg)
 
 ## Отримуємо контакт по id
 
